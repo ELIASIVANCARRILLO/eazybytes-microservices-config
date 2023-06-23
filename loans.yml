@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes loans DEFAULT application"
+  build-version: 3
+  mail-details:
+    hostname: "default-loans@eazybytes.com"
+    port: 9002
+    from: "default-loans@eazybytes.com"
+    subject: "Your loans details from Eazy Bank DEFAULT environment"
+  active-branches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

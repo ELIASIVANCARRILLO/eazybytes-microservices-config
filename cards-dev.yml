@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes cards DEV application"
+  build-version: 2
+  mail-details:
+    hostname: "dev-cards@eazybytes.com"
+    port: 9021
+    from: "dev-cards@eazybytes.com"
+    subject: "Your cards details from Eazy Bank DEV environment"
+  active-branches:
+    - "Chihuahua"
+    - "Villahermosa"
+    - "San Juan del Rio"

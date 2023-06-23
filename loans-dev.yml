@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes loans DEV application"
+  build-version: 2
+  mail-details:
+    hostname: "dev-loans@eazybytes.com"
+    port: 9021
+    from: "dev-loans@eazybytes.com"
+    subject: "Your loans details from Eazy Bank DEV environment"
+  active-branches:
+    - "Chihuahua"
+    - "Villahermosa"
+    - "San Juan del Rio"

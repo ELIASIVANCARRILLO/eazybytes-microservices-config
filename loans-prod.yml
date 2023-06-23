@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes loans PROD application"
+  build-version: 1
+  mail-details:
+    hostname: "prod-loans@eazybytes.com"
+    port: 9022
+    from: "prod-loans@eazybytes.com"
+    subject: "Your loans details from Eazy Bank PROD environment"
+  active-branches:
+    - "Chignahuapan"
+    - "Puerto Veracruz"
+    - "Cdmx"

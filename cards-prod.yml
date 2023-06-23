@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes cards PROD application"
+  build-version: 1
+  mail-details:
+    hostname: "prod-cards@eazybytes.com"
+    port: 9011
+    from: "prod-cards@eazybytes.com"
+    subject: "Your cards details from Eazy Bank PROD environment"
+  active-branches:
+    - "Chignahuapan"
+    - "Puerto Veracruz"
+    - "Cdmx"

@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to Eaxybytes accounts DEFAULT application"
+  build-version: 3
+  mail-details:
+    hostname: "default-account@eazybytes.com"
+    port: 9000
+    from: "default-account@eazybytes.com"
+    subject: "Your account details from Eazy Bank DEFAULT environment"
+  active-branches:
+    - "Mumbai"
+    - "London"
+    - "Washington"
