@@ -1,6 +1,6 @@
 accounts:
   msg: "Welcome to Eaxybytes accounts PROD application"
-  build-version: 1
+  build-version: "1.0.1"
   mail-details:
     hostname: "prod-account@eazybytes.com"
     port: 9010
