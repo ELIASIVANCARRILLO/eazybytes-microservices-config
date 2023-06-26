@@ -1,4 +1,4 @@
-accounts:
+cards:
   msg: "Welcome to Eaxybytes cards DEV application"
   build-version: 2
   mail-details:
