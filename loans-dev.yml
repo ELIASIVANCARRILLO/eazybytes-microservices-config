@@ -1,4 +1,4 @@
-accounts:
+loans:
   msg: "Welcome to Eaxybytes loans DEV application"
   build-version: 2
   mail-details:
