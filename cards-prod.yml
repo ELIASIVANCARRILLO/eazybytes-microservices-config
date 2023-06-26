@@ -1,4 +1,4 @@
-accounts:
+cards:
   msg: "Welcome to Eaxybytes cards PROD application"
   build-version: 1
   mail-details:
