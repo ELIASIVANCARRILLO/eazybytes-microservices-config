@@ -1,5 +1,5 @@
 accounts:
-  msg: "Welcome to Eaxybytes accounts PROD application"
+  msg: "{cipher}46e9fabe1336aa932d183194aeb9ff4db394e9fb8bed5844d0ba677830187a1e39f5324da7b86195748fdd7c605862c6d24dca3507395b6caca98a752d2bcdb6"
   build-version: "1.0.1"
   mail-details:
     hostname: "prod-account@eazybytes.com"
